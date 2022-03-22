@@ -9,7 +9,7 @@
   
   inputs.src-filetype-v0_2_0.flake = false;
   inputs.src-filetype-v0_2_0.owner = "jiro4989";
-  inputs.src-filetype-v0_2_0.ref   = "refs/tags/v0.2.0";
+  inputs.src-filetype-v0_2_0.ref   = "v0_2_0";
   inputs.src-filetype-v0_2_0.repo  = "filetype";
   inputs.src-filetype-v0_2_0.type  = "github";
   
