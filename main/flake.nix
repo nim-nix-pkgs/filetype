@@ -11,6 +11,7 @@
   inputs.src-filetype-main.ref   = "refs/heads/main";
   inputs.src-filetype-main.owner = "jiro4989";
   inputs.src-filetype-main.repo  = "filetype";
+  inputs.src-filetype-main.dir   = "";
   inputs.src-filetype-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

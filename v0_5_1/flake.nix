@@ -11,6 +11,7 @@
   inputs.src-filetype-v0_5_1.ref   = "refs/tags/v0.5.1";
   inputs.src-filetype-v0_5_1.owner = "jiro4989";
   inputs.src-filetype-v0_5_1.repo  = "filetype";
+  inputs.src-filetype-v0_5_1.dir   = "";
   inputs.src-filetype-v0_5_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
